@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Skills
+
+![JS](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javaScript)
+![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-grey?style=for-the-badge&logo=redux)
+![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typeScript)
+![NodeJS](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=node.JS)
+
 <!--
 **phildesign/phildesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
