@@ -7,6 +7,9 @@
 ![Redux](https://img.shields.io/badge/Redux-grey?style=for-the-badge&logo=redux)
 ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typeScript)
 ![NodeJS](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=node.JS)
+![HTML](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=HTML5)
+![SASS](https://img.shields.io/badge/SASS-grey?style=for-the-badge&logo=sass)
+![Material-UI](https://img.shields.io/badge/Material_UI-grey?style=for-the-badge&logo=material-ui)
 
 <!--
 **phildesign/phildesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
