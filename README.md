@@ -15,4 +15,4 @@
 
 #### Where to find me
 
-![Codewars](https://www.codewars.com/users/Phil_23/badges/micro)
+#### Codewars - ![Codewars](https://www.codewars.com/users/Phil_23/badges/micro)
