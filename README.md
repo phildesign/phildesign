@@ -12,6 +12,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-grey?flat&logo=Node.js)
 ![HTML](https://img.shields.io/badge/HTML5-grey?flat&logo=HTML5)
 ![SASS](https://img.shields.io/badge/SASS-grey?flat&logo=Sass)
+![Gulp](https://img.shields.io/badge/GULP-grey?flat&logo=gulp&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-grey?flate&logo=Material-UI)
 ![Figma](https://img.shields.io/badge/Figma-grey?flat&logo=Figma&logoColor=white)
 
