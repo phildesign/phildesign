@@ -2,7 +2,7 @@
 
 #### I'm Phil. The developer.
 
-#### Skills and Tools
+#### Skills and Tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?flat&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-grey?flat&logo=TypeScript)
@@ -16,6 +16,6 @@
 ![Material-UI](https://img.shields.io/badge/Material--UI-grey?flate&logo=Material-UI)
 ![Figma](https://img.shields.io/badge/Figma-grey?flat&logo=Figma&logoColor=white)
 
-#### Where to find me
+#### Where to find me:
 
 #### Codewars - ![Codewars](https://www.codewars.com/users/Phil_23/badges/micro)
