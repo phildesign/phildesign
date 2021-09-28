@@ -10,6 +10,7 @@
 ![Redux](https://img.shields.io/badge/Redux-grey?flat&logo=Redux)
 ![Next.js](https://img.shields.io/badge/Next.js-grey?flat&logo=Next.js)
 ![Node.js](https://img.shields.io/badge/Node.js-grey?flat&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-gray?flat&logo=MongoDB)
 ![HTML](https://img.shields.io/badge/HTML5-grey?flat&logo=HTML5)
 ![SASS](https://img.shields.io/badge/SASS-grey?flat&logo=Sass)
 ![Gulp](https://img.shields.io/badge/GULP-grey?flat&logo=gulp&logoColor=white)
