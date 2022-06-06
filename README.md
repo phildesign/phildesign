@@ -18,6 +18,12 @@
 ![Material-UI](https://img.shields.io/badge/Material--UI-grey?flate&logo=Material-UI)
 ![Figma](https://img.shields.io/badge/Figma-grey?flat&logo=Figma&logoColor=white)
 
+#### Test projects:
+
+- alfabank-test-task [Demo](https://phildesign.github.io/alfabank-test-task/) / [Code](https://github.com/phildesign/alfabank-test-task)
+
+- uchiru-test-task [Demo](https://phildesign.github.io/frontend-challenge/) / [Code](https://github.com/phildesign/frontend-challenge)
+
 #### Where to find me:
 
 #### Codewars - ![Codewars](https://www.codewars.com/users/Phil_23/badges/micro)
