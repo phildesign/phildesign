@@ -24,6 +24,11 @@
 
 - Uchi.ru - [Demo](https://phildesign.github.io/frontend-challenge/) / [Code](https://github.com/phildesign/frontend-challenge)
 
+#### Educational projects:
+
+- top-app - [Code](https://github.com/phildesign/top-app)
+- top-api - [Code](https://github.com/phildesign/top-api)
+
 #### Where to find me:
 
 #### Codewars - ![Codewars](https://www.codewars.com/users/Phil_23/badges/micro)
