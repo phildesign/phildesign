@@ -20,9 +20,9 @@
 
 #### Test projects:
 
-- alfabank-test-task [Demo](https://phildesign.github.io/alfabank-test-task/) / [Code](https://github.com/phildesign/alfabank-test-task)
+- Alfabank [Demo](https://phildesign.github.io/alfabank-test-task/) / [Code](https://github.com/phildesign/alfabank-test-task)
 
-- uchiru-test-task [Demo](https://phildesign.github.io/frontend-challenge/) / [Code](https://github.com/phildesign/frontend-challenge)
+- Uchi.ru [Demo](https://phildesign.github.io/frontend-challenge/) / [Code](https://github.com/phildesign/frontend-challenge)
 
 #### Where to find me:
 
