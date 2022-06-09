@@ -20,14 +20,14 @@
 
 #### Test projects:
 
-- Alfabank - [Demo](https://phildesign.github.io/alfabank-test-task/) / [Code](https://github.com/phildesign/alfabank-test-task)
+- Alfabank - [Demo](https://phildesign.github.io/alfabank-test-task/) / [Code](https://github.com/phildesign/alfabank-test-task) (React, Redux Toolkit, TypeScript, CSS Modules, classnames)
 
-- Uchi.ru - [Demo](https://phildesign.github.io/frontend-challenge/) / [Code](https://github.com/phildesign/frontend-challenge)
+- Uchi.ru - [Demo](https://phildesign.github.io/frontend-challenge/) / [Code](https://github.com/phildesign/frontend-challenge) (React, Redux Toolkit, TypeScript, CSS Modules, react-router-dom v6, classnames)
 
 #### Educational projects:
 
-- top-app - [Code](https://github.com/phildesign/top-app)
-- top-api - [Code](https://github.com/phildesign/top-api)
+- top-app - [Code](https://github.com/phildesign/top-app) (Next.js, TypeScript, CSS Grid)
+- top-api - [Code](https://github.com/phildesign/top-api) (Nest.js, TypeScript, Docker, MongoDB)
 
 #### Where to find me:
 
