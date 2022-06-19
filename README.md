@@ -24,6 +24,8 @@
 
 - Uchi.ru - [Demo](https://phildesign.github.io/frontend-challenge/) / [Code](https://github.com/phildesign/frontend-challenge) (React, Redux Toolkit, TypeScript, CSS Modules, react-router-dom v6, classnames)
 
+- Kelnik - [Code](https://github.com/phildesign/kelnik-test-task) (Js, Html5, Sass, Gulp)
+
 #### Educational projects:
 
 - top-app - [Code](https://github.com/phildesign/top-app) (Next.js, TypeScript, CSS Grid)
