@@ -20,6 +20,8 @@
 
 #### Test projects:
 
+- Фирменные решения - [Demo](https://phildesign.github.io/fim-test-task/) / [Code](https://github.com/phildesign/fim-test-task) (React, TypeScript, Material UI, Lodash)
+
 - Alfabank - [Demo](https://phildesign.github.io/alfabank-test-task/) / [Code](https://github.com/phildesign/alfabank-test-task) (React, Redux Toolkit, TypeScript, CSS Modules, classnames)
 
 - Uchi.ru - [Demo](https://phildesign.github.io/frontend-challenge/) / [Code](https://github.com/phildesign/frontend-challenge) (React, Redux Toolkit, TypeScript, CSS Modules, react-router-dom v6, classnames)
@@ -30,7 +32,3 @@
 
 - top-app - [Code](https://github.com/phildesign/top-app) (Next.js, TypeScript, CSS Grid)
 - top-api - [Code](https://github.com/phildesign/top-api) (Nest.js, TypeScript, Docker, MongoDB)
-
-#### Where to find me:
-
-#### Codewars - ![Codewars](https://www.codewars.com/users/Phil_23/badges/micro)
