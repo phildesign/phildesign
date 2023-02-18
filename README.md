@@ -20,6 +20,8 @@
 
 #### Test projects:
 
+- Nimax - [Demo](https://phildesign.github.io/nimax-test-task/) / [Code](https://github.com/phildesign/nimax-test-task) (React, Redux Toolkit, TypeScript, CSS Modules, classnames, react-hook-form, react-responsive, react-router-dom v6, react-input-mask)
+
 - Фирменные решения - [Demo](https://phildesign.github.io/fim-test-task/) / [Code](https://github.com/phildesign/fim-test-task) (React, TypeScript, Material UI, Lodash)
 
 - Alfabank - [Demo](https://phildesign.github.io/alfabank-test-task/) / [Code](https://github.com/phildesign/alfabank-test-task) (React, Redux Toolkit, TypeScript, CSS Modules, classnames)
